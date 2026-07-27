@@ -1,0 +1,8 @@
+{
+  "name": "DTGE - Dream Team Governance Engine",
+  "description": "Framework de governança multiagente para auditoria, rastreabilidade, controle de integridade e automação segura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
